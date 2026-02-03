@@ -5,8 +5,9 @@ This dataset represents Meta Ads Performance Data, covering campaigns, ads, user
 This project focuses on analyzing Meta Ad Performance (Facebook & Instagram) to help businesses optimize their marketing spend and improve ROI. Using a dataset of campaigns, ads, and user interactions, I built an interactive Power BI dashboard that tracks key performance indicators (KPIs) and audience insights.
 
 **Live Demonstration of Dashboard**
-### 📺 Interactive Project Demo
+### 📺 Interactive Project Demo:
 [![Watch Project Demo](Dash.png)](https://www.loom.com/share/feac215d5cab49388b9bb3be53785ef5)
+CLick on the image below to see the demonstartion of Dashboard
 
 **🛠️ Key Steps & Tech StackData Cleaning (Power Query)**:
 Handled missing values and created derived columns like Day_of_Week and Time_of_Day for temporal analysis.DAX Measures: Developed custom measures for business metrics.Data Visualization: Created a multi-page dashboard focusing on Campaign Overview and Audience Segmentation.
