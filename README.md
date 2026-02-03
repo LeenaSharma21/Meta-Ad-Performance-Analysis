@@ -15,6 +15,7 @@ Efficiency Metrics: CPC (Cost Per Click) and CPM (Cost Per Mille).
 Conversion Metrics: Total Purchases and Conversion Rate.
 ROI Metrics: ROAS (Return on Ad Spend) to measure campaign profitability.
 
+
 **📸 Dashboard Preview**
 <img width="1291" height="746" alt="image" src="https://github.com/user-attachments/assets/98e5391d-8427-456c-9da2-c4df6b7348e2" />
 <img width="1286" height="740" alt="image" src="https://github.com/user-attachments/assets/9d546c5d-51e8-4c62-8ee4-331a811412c1" />
